@@ -1,0 +1,43 @@
+/* style for my form */
+label{
+    float:left;
+    width: 7em;
+}
+body{
+    background-color: #889093;
+    color: #FFFFFF; 
+    background-image: url(images/sand.jpg);
+    background-size: cover;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+/*
+img {
+    max-width: 60%;
+    animation-direction: normal;
+    animation-duration: 2s;
+
+}*/
+input{
+    display: block;
+    margin-bottom: .5em;
+}
+
+legend{
+    padding: 1em;
+    border-radius: 2% 25% 2% 25%;
+    border-left: 30px;
+    background-color:#AADDAA;
+}
+
+#Msg{
+    border-left: 0px;
+}
+fieldset{
+    border-color: transparent;
+ /*   background-color: #CCCCCC;*/
+    margin: auto;
+    width: 75%;
+}

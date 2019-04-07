@@ -1,0 +1,47 @@
+
+	#video{
+		padding-top: 50px;
+		padding-right: 30px;
+		padding-left: 60px;
+	}
+
+
+	#headertext{
+		color: white;
+		text-align: left;
+
+		
+	}
+
+	.center{
+		text-align: center;
+		text-shadow: 4px 7px #0000ff;
+		font-size: 5em;
+		color: yellow; 
+		font-family: cursive; 
+		text-decoration-style: wavy;
+		padding-top: 1em 
+		color: yellow;
+	}
+	#showcase2{
+		/*background-color: #889093;*/
+		/*background-image: url(images/summer1.jpg);*/
+		/*background-size: cover;*/
+		/*height:60vh;
+		padding: 20vh 2% 2% 2%;*/
+	}
+
+	#logo{
+		padding-top: 50px;
+		padding-bottom: 50px; 
+		border-radius: 50%;
+		max-width: 10vh;
+		max-height: 10vh;
+
+    
+ 		
+
+	}
+	/*EXTRA CREDIT*/
+	.grow { transition: all .1s ease-in-out; }
+	.grow:hover { transform: scale(1.8); }

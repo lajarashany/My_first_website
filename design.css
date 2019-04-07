@@ -1,0 +1,107 @@
+*{
+		margin: 0;
+		padding: 0;
+	}
+
+	body{
+		background-color: #889093;
+		color: #FFFFFF; 
+		background-image: url(images/summer1.jpg);
+		background-size: cover;
+		max-width: 100%;
+	}
+	img {
+		max-width: 60%;
+		animation-direction: normal;
+		animation-duration: 2s;
+	}
+
+	head{
+		
+
+	}
+
+	h3{
+
+		text-shadow: 1px 1px #d8cb2f;
+		color: #003a58; 
+		font-family: cursive;
+		font-size:xx-large;
+	}
+/*
+ 				---------------------------------------------------- 
+   				----------------------------------------------------              
+*/
+
+	h2{
+		color: white;
+		
+	}
+
+	h2, h3, h4, h5, h6{
+	 margin-top: 1em;
+	 margin-bottom: 1em;
+	}
+
+
+	p{
+	display: block;
+	/*text-decoration: bold;*/
+	-webkit-text-stroke: 0.5px white;
+	
+	/*opacity: 0.5;*/
+	text-decoration: underline;
+	}
+
+	section{
+		padding: 2em;
+	}
+
+	ol{
+		margin: 1em 0 1em 0; 
+	}
+
+	li{
+		margin-left: 2em;
+	
+	}
+/*
+ 				---------------------------------------------------- 
+   				----------------------------------------------------              
+*/
+
+	h3{
+
+		text-shadow: 1px 1px #d8cb2f;
+		color: #003a58; 
+		font-family: cursive;
+		font-size:xx-large;
+		text-align: center;
+
+	}
+
+	h4{
+		padding-left: 30px;
+		padding-top: 80px;
+
+		font-size: 1.5em;
+		text-indent: 50px;
+		font-style: oblique;
+	}
+footer{
+	padding: 2em;
+	clear: both;
+	background-color: #000000;
+}
+.bottom {
+ 	text-align: center;
+ }
+
+@media screen and (max-width:600px) {
+    .column {
+        width: 100%;
+    }
+}
+
+
+
